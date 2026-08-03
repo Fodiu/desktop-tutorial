@@ -1,8 +1,9 @@
-Name project: Helping learning english
+Имя проекта: Помошь в изучении английского языка.
+Name project: Helping learning english.
 
 The is project helping learning english for a puple and by them, who is learning inglish for the firs time. 
 
-The project, I making with AI. But I make this project more myself.
+The project, I making . But I make this project more myself.
 
 I'am use language
 Python 3.13
@@ -16,6 +17,9 @@ import random
 The separate list words  first folder with project:
 
 from dictionary import WORDS
+
+To ensure the project works correctly, you need to run the following commands in the terminal:
+
 
 How use this programm?
 You nedd to download Python https://www.python.org/downloads/windows/, paste this code into IDLE, and click Run.
